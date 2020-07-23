@@ -17,7 +17,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Parsnip <br><strong>Cooking has never been this easy</strong>
-  content: The tool that streamlines meal planning,<br>grocery shopping, and cooking.
+  content: The tool that streamlines grocery shopping, <br>meal planning, and cooking.
   cta:
     enabled: true
     url: http://eepurl.com/g-8Sv5
