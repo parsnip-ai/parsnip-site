@@ -45,7 +45,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>Step-by-step cooking directions </strong>from <br>multiple recipes"
   media:
     image: "/uploads/2020/07/23/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545.jpg"
