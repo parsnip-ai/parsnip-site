@@ -11,10 +11,8 @@ page_sections:
     link_text: Home
   - link: "#features"
     link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: http://eepurl.com/g-8Sv5zip
     button_text: Signup
 - template: hero-banner-w-image
   block: hero-2
