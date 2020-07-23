@@ -12,7 +12,7 @@ page_sections:
   - link: "#features"
     link_text: Features
   cta:
-    url: http://eepurl.com/g-8Sv5zip
+    url: https://parsnip.us17.list-manage.com/subscribe?u=06af1f007b3d71a0cfad78326&id=8ce2690158
     button_text: Signup
 - template: hero-banner-w-image
   block: hero-2
