@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/07/22/logo-mockup-072220.png"
   navigation:
   - link: "/"
-    link_text: About Us
+    link_text: Home
   - link: "#features"
     link_text: Features
   - link: "#pricing"
