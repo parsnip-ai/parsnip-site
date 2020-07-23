@@ -70,7 +70,7 @@ page_sections:
     next round of tests.
   cta:
     enabled: true
-    url: http://eepurl.com/g-8Sv5
+    url: https://parsnip.us17.list-manage.com/subscribe?u=06af1f007b3d71a0cfad78326&id=8ce2690158
     button_text: Sign Up
 - template: simple-footer
   block: footer-1
