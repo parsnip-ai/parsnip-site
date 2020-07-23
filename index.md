@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2020-07-23 00:00:00 -0400
+date: 2020-07-23T00:00:00.000-04:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -20,7 +20,7 @@ page_sections:
   content: The tool that streamlines grocery shopping, <br>meal planning, and cooking.
   cta:
     enabled: true
-    url: http://eepurl.com/g-8Sv5
+    url: https://parsnip.us17.list-manage.com/subscribe?u=06af1f007b3d71a0cfad78326&id=8ce2690158
     button_text: Sign Up
   image:
     image: "/uploads/2020/07/23/avocado-toast.jpg"
