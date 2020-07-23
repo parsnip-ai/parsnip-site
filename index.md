@@ -59,10 +59,18 @@ page_sections:
     week!" -Asher A<br><br>"I''ve saved countless hours and bypassed loads of frustration.  Thank
     you, Parsnip! XO" -Edith T<br><br>"My wife is impressed with my newfound cooking
     skills.  My secret weapon is Parsnip." -Robert K<br>'
-- template: detail-content
-  block: text-1
-  headline: Closed Beta Test in Process
-  content: "<p>Sign up for our next round of testing.</p>"
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2020/07/23/cooking-baby.jpg"
+    alt_text: Chef
+  background_image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: <a href="instagram.com/parsnipai" title="Instagram">Follow us</a><br><a
