@@ -24,7 +24,7 @@ page_sections:
     button_text: Sign Up
   image:
     image: "/uploads/2020/07/23/avocado-toast.jpg"
-    alt_text: Product Shot
+    alt_text: Easy Cooking
   background_image: ''
 - template: content-feature
   block: feature-1
