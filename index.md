@@ -23,9 +23,9 @@ page_sections:
     url: http://eepurl.com/g-8Sv5
     button_text: Sign Up
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/07/23/avocado-toast.jpg"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
