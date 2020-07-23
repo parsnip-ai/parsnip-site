@@ -52,13 +52,13 @@ page_sections:
     alt_text: Meals
   content: Parsnip lets you know what must be prepped ahead<br>and what can be done
     on-the-fly.  Over time, Parsnip<br>learns your cooking speed and skill level.
-- template: 1-column-text
-  block: one-column-1
+- template: detail-content
+  block: text-1
+  content: <blockquote><p>"Parsnip makes grocery shopping an adventure. I can't wait
+    to go each week!" -Asher A<br><br>"I've saved countless hours and bypassed loads
+    of frustration. Thank you, Parsnip! XO" -Edith T<br><br>"My wife is impressed
+    with my newfound cooking skills. My secret weapon is Parsnip." -Robert K<br></p></blockquote>
   headline: Here's what people are saying about Parsnip
-  content: '"Parsnip makes grocery shopping an adventure.  I can''t wait to go each
-    week!" -Asher A<br><br>"I''ve saved countless hours and bypassed loads of frustration.  Thank
-    you, Parsnip! XO" -Edith T<br><br>"My wife is impressed with my newfound cooking
-    skills.  My secret weapon is Parsnip." -Robert K<br>'
 - template: hero-banner-w-image
   block: hero-2
   image:
@@ -77,13 +77,6 @@ page_sections:
   content: <a href="instagram.com/parsnipai" title="">Follow us on Instagram</a><br><a
     href="facebook.com/parsnip" title="">Like us on Facebook</a><br>© 2020 Seed &amp;
     Stone, Inc. All rights reserved.
-- template: detail-content
-  block: text-1
-  content: <blockquote><p>"Parsnip makes grocery shopping an adventure. I can't wait
-    to go each week!" -Asher A<br><br>"I've saved countless hours and bypassed loads
-    of frustration. Thank you, Parsnip! XO" -Edith T<br><br>"My wife is impressed
-    with my newfound cooking skills. My secret weapon is Parsnip." -Robert K<br></p></blockquote>
-  headline: Here's what people are saying about Parsnip
 
 ---
 foo bar
