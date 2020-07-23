@@ -65,12 +65,13 @@ page_sections:
     image: "/uploads/2020/07/23/cooking-baby.jpg"
     alt_text: Chef
   background_image: ''
-  headline: ''
-  content: ''
+  headline: Closed Beta Test in Progress
+  content: Sign up for early access, sneak peaks, and an exclusive invitation to our
+    next round of tests.
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: http://eepurl.com/g-8Sv5
+    button_text: Sign Up
 - template: simple-footer
   block: footer-1
   content: <a href="instagram.com/parsnipai" title="Instagram">Follow us</a><br><a
