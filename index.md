@@ -22,7 +22,7 @@ page_sections:
   content: The tool that streamlines meal planning,<br>grocery shopping, and cooking.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: http://eepurl.com/g-8Sv5
     button_text: Sign Up
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
