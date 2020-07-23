@@ -37,12 +37,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: <strong>Auto-populate your grocery list</strong><span class="light"> from<br>your
+    chosen recipes.</span>
+  content: Parsnip remembers what you've purchased for easy pantry organization.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2020/07/23/little-girl-cooking.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
