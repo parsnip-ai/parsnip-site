@@ -37,8 +37,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Auto-populate your grocery list</strong><span class="light"> from<br>your
-    chosen recipes.</span>
+  headline: <strong>Auto-populate your grocery list</strong><span class="light"> from
+    your chosen recipes.</span>
   content: Parsnip remembers what you've purchased for easy pantry organization.
   media:
     image: "/uploads/2020/07/23/little-girl-cooking.jpg"
@@ -74,8 +74,9 @@ page_sections:
     button_text: Sign Up
 - template: simple-footer
   block: footer-1
-  content: <a href="instagram.com/parsnipai" title="Instagram">Follow us</a><br><a
-    href="facebook.com/parsnip" title="">Like us</a>
+  content: <a href="instagram.com/parsnipai" title="">Follow us on Instagram</a><br><a
+    href="facebook.com/parsnip" title="">Like us on Facebook</a><br>© 2020 Seed &amp;
+    Stone, Inc. All rights reserved.
 
 ---
 foo bar
