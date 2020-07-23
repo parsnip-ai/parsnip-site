@@ -56,9 +56,9 @@ page_sections:
   block: one-column-1
   headline: Here's what people are saying about Parsnip
   content: '"Parsnip makes grocery shopping an adventure.  I can''t wait to go each
-    week!" -Asher A<br>"I''ve saved countless hours and bypassed loads of frustration.  Thank
-    you, Parsnip! XO" -Edith T<br>"My wife is impressed with my newfound cooking skills.  My
-    secret weapon is Parsnip." -Robert K<br>'
+    week!" -Asher A<br><br>"I''ve saved countless hours and bypassed loads of frustration.  Thank
+    you, Parsnip! XO" -Edith T<br><br>"My wife is impressed with my newfound cooking
+    skills.  My secret weapon is Parsnip." -Robert K<br>'
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
