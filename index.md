@@ -43,6 +43,14 @@ page_sections:
   media:
     image: "/uploads/2020/07/23/little-girl-cooking.jpg"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Step-by-step cooking directions </strong>from <br>multiple recipes"
+  media:
+    image: "/uploads/2020/07/23/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545.jpg"
+    alt_text: Meals
+  content: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
