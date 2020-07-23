@@ -54,10 +54,11 @@ page_sections:
     on-the-fly.  Over time, Parsnip<br>learns your cooking speed and skill level.
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  headline: Here's what people are saying about Parsnip
+  content: '"Parsnip makes grocery shopping an adventure.  I can''t wait to go each
+    week!" -Asher A<br>"I''ve saved countless hours and bypassed loads of frustration.  Thank
+    you, Parsnip! XO" -Edith T<br>"My wife is impressed with my newfound cooking skills.  My
+    secret weapon is Parsnip." -Robert K<br>'
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
