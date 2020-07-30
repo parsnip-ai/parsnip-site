@@ -74,7 +74,7 @@ page_sections:
     button_text: Sign Up
 - template: simple-footer
   block: footer-1
-  content: <a href="https://instagram.com/parsnipai" title="">Follow us on Instagram</a><br><a
+  content: <a href="instagram.com/parsnipai" title="">Follow us on Instagram</a><br><a
     href="https://facebook.com/parsnip" title="">Like us on Facebook</a><br>© 2020
     Seed &amp; Stone, Inc. All rights reserved.
 
