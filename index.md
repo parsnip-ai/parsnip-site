@@ -39,8 +39,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Parsnip guides you through recipes by cooking<strong> technique.</strong>
-  content: Learn what it means to dice, saute, or simmer, step by step. Technique-based
-    learning is more effective and will give you freedom from recipes.
+  content: Learn what it means to dice, saute, or simmer, step by step. Learning techniques
+    is fun and will give you freedom to improvise.
   media:
     image: "/uploads/2020/07/23/little-girl-cooking.jpg"
     alt_text: Customize Blocks
