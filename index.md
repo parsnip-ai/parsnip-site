@@ -22,7 +22,7 @@ page_sections:
   cta:
     enabled: true
     url: app.parsnip.ai
-    button_text: Try Parsnip Out
+    button_text: Explore Parsnip
   image:
     image: "/uploads/2020/07/23/avocado-toast.jpg"
     alt_text: Easy Cooking
