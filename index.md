@@ -47,12 +47,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Step-by-step cooking directions </strong>from <br>multiple recipes"
+  headline: Parsnip teaches you the basic building blocks of cooking and tracks your
+    progress in six key areas.
   media:
     image: "/uploads/2020/07/23/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545.jpg"
     alt_text: Meals
-  content: Parsnip lets you know what must be prepped ahead<br>and what can be done
-    on-the-fly.  Over time, Parsnip<br>learns your cooking speed and skill level.
+  content: Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.<br>Master
+    these skills and you'll be a master chef.
 - template: detail-content
   block: text-1
   content: <blockquote><p>"Parsnip makes grocery shopping an adventure. I can't wait
