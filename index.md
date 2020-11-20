@@ -67,7 +67,7 @@ page_sections:
     image: "/uploads/2020/07/23/cooking-baby.jpg"
     alt_text: Chef
   background_image: ''
-  headline: Closed Beta Test in Progress
+  headline: Keep an eye on what's next
   content: Sign up for early access, sneak peaks, and an exclusive invitation to our
     next round of tests.
   cta:
