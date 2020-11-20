@@ -52,8 +52,8 @@ page_sections:
   media:
     image: "/uploads/2020/07/23/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545.jpg"
     alt_text: Meals
-  content: Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.<br>Master
-    these skills and you'll be a master chef.
+  content: "<strong>Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.</strong><br>Master
+    these skills and you'll be a master chef."
 - template: detail-content
   block: text-1
   content: <blockquote><p>"What a revolutionary approach to cooking! I can't stop
