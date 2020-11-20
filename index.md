@@ -23,7 +23,7 @@ page_sections:
     url: app.parsnip.ai
     button_text: Explore Parsnip
   image:
-    image: "/uploads/2020/11/20/logo-white-back.png"
+    image: "/uploads/2020/07/23/avocado-toast.jpg"
     alt_text: Cool screenshot of our landing page
   background_image: ''
 - template: content-feature
