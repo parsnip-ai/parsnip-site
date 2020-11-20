@@ -17,8 +17,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Introducing Parsnip!<br></strong>Your Private Chef Cooking Companion™"
-  content: Frustrated or intimidated by cooking? Want to impress your friends and
-    family? Ever wish there was someone who could just walk you through it?<br>
+  content: "<br>"
   cta:
     enabled: true
     url: app.parsnip.ai
