@@ -24,15 +24,14 @@ page_sections:
     button_text: Explore Parsnip
   image:
     image: ''
-    alt_text: Easy Cooking
+    alt_text: Cool screenshot of our landing page
   background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Frustrated or intimidated by cooking? Ever wish there was someone who
-    could just walk you through it?
-  content: Invite Parsnip, your private chef friend, into your kitchen to walk you
-    through recipes!
+  headline: 'Frustrated or intimidated by cooking? '
+  content: Ever wish there was someone who could just walk you through it? Invite
+    Parsnip, your private chef friend, into your kitchen to walk you through recipes!
   media:
     image: "/uploads/2020/07/23/overhead-table.jpg"
     alt_text: Swipe right
