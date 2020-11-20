@@ -38,7 +38,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Parsnip organizes recipes by cooking technique.
+  headline: Parsnip walks you through recipes by cooking technique.
   content: Learn what it means to dice, saute, or simmer, step by step. The Parsnip
     app will track your progress.
   media:
