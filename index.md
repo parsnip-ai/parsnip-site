@@ -5,7 +5,7 @@ date: 2020-07-23T00:00:00.000-04:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/07/22/logo-mockup-072220.png"
+  logo: "/uploads/2020/11/20/logo-white-back.png"
   navigation:
   - link: "/"
     link_text: Home
