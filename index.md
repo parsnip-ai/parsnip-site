@@ -23,9 +23,9 @@ page_sections:
     url: app.parsnip.ai
     button_text: Explore Parsnip
   image:
-    image: ''
+    image: "/uploads/2020/11/20/logo-white-back.png"
     alt_text: Cool screenshot of our landing page
-  background_image: "/uploads/2020/11/20/logo-white-back.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
