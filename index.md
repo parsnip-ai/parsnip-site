@@ -38,9 +38,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: 'Parsnip organizes recipes by cooking technique. '
-  content: Let Parsnip walk you step-by-step through recipes, providing handy pointers
-    to make sure you cook your best, every single time.
+  headline: Parsnip organizes recipes by cooking technique.
+  content: Learn what it means to dice, saute, or simmer, step by step. The Parsnip
+    app will track your progress.
   media:
     image: "/uploads/2020/07/23/little-girl-cooking.jpg"
     alt_text: Customize Blocks
