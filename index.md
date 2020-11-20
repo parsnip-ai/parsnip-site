@@ -31,7 +31,7 @@ page_sections:
   media_alignment: Left
   headline: 'Frustrated or intimidated by cooking? '
   content: Ever wish there was someone who could just walk you through it? Invite
-    Parsnip, your private chef friend, into your kitchen to walk you through recipes!
+    the Parsnip app into your kitchen to walk you through recipes!
   media:
     image: "/uploads/2020/07/23/overhead-table.jpg"
     alt_text: Swipe right
