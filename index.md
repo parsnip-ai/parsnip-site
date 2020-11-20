@@ -31,17 +31,16 @@ page_sections:
   media_alignment: Left
   headline: Frustrated or intimidated by cooking? Ever wish there was someone who
     could just walk you through it?
-  content: Invite Parsnip, your private chef friend, over to walk you through your
-    Thanksgiving preparations!
+  content: Invite Parsnip, your private chef friend, into your kitchen to walk you
+    through recipes!
   media:
     image: "/uploads/2020/07/23/overhead-table.jpg"
     alt_text: Swipe right
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Auto-populate your grocery list</strong><span class="light"> from
-    your chosen recipes.</span>
-  content: Parsnip remembers what you've purchased for easy pantry organization.
+  headline: Learn pro tips and improve your skills.
+  content: Look for "Snips" in app.
   media:
     image: "/uploads/2020/07/23/little-girl-cooking.jpg"
     alt_text: Customize Blocks
