@@ -12,8 +12,8 @@ page_sections:
   - link: "#features"
     link_text: Features
   cta:
-    url: https://parsnip.us17.list-manage.com/subscribe?u=06af1f007b3d71a0cfad78326&id=8ce2690158
-    button_text: Signup
+    url: app.parsnip.ai
+    button_text: Explore Parsnip
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Introducing Parsnip!<br></strong>Your Private Chef Cooking Companion™"
