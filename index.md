@@ -38,7 +38,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Parsnip walks you through recipes <strong>by cooking technique.</strong>
+  headline: Parsnip walks you through recipes by cooking<strong> technique.</strong>
   content: Learn what it means to dice, saute, or simmer, step by step. Parsnip will
     track your progress.
   media:
