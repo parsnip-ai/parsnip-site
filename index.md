@@ -38,8 +38,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Learn pro tips and improve your skills.
-  content: Look for "Snips" in app.
+  headline: 'Parsnip organizes recipes by cooking technique. '
+  content: Let Parsnip walk you step-by-step through recipes, providing handy pointers
+    to make sure you cook your best, every single time.
   media:
     image: "/uploads/2020/07/23/little-girl-cooking.jpg"
     alt_text: Customize Blocks
