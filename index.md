@@ -39,8 +39,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Parsnip walks you through recipes <strong>by cooking technique.</strong>
-  content: Learn what it means to dice, saute, or simmer, step by step. The Parsnip
-    app will track your progress.
+  content: Learn what it means to dice, saute, or simmer, step by step. Parsnip will
+    track your progress.
   media:
     image: "/uploads/2020/07/23/little-girl-cooking.jpg"
     alt_text: Customize Blocks
