@@ -16,12 +16,16 @@ page_sections:
     button_text: Signup
 - template: hero-banner-w-image
   block: hero-2
-  headline: Parsnip <br><strong>Cooking has never been this easy</strong>
-  content: The tool that streamlines grocery shopping, <br>meal planning, and cooking.
+  headline: "<strong>Introducing Parsnip!<br></strong>Your Private Chef Cooking Companion™"
+  content: Frustrated or intimidated by cooking? Want to impress your friends and
+    family? Ever wish there was someone who could just walk you through it?<br>Invite
+    Parsnip, your private chef friend, over to walk you through your Thanksgiving
+    preparations!<br>Learn pro tips and improve your skills.<br>Wow your friends with
+    mouthwatering dishes.
   cta:
     enabled: true
-    url: https://parsnip.us17.list-manage.com/subscribe?u=06af1f007b3d71a0cfad78326&id=8ce2690158
-    button_text: Sign Up
+    url: app.parsnip.ai
+    button_text: Try Parsnip Out
   image:
     image: "/uploads/2020/07/23/avocado-toast.jpg"
     alt_text: Easy Cooking
