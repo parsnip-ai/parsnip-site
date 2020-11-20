@@ -76,9 +76,10 @@ page_sections:
     button_text: Sign Up
 - template: simple-footer
   block: footer-1
-  content: <a href="instagram.com/parsnipai" title="">Follow us on Instagram</a><br><a
-    href="facebook.com/parsnipai" title="">Like us on Facebook</a><br>© 2020 Seed
-    &amp; Stone, Inc. All rights reserved.
+  content: '<a href="instagram.com/parsnipai" title="">Follow us on Instagram</a><br><a
+    href="facebook.com/parsnipai" title="">Like us on Facebook</a><br>Feedback and
+    Inquiries: <a href="" title="">edward@parsnip.ai</a><br>© 2020 Seed &amp; Stone,
+    Inc. All rights reserved.'
 
 ---
 foo bar
