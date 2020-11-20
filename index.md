@@ -56,10 +56,10 @@ page_sections:
     these skills and you'll be a master chef.
 - template: detail-content
   block: text-1
-  content: <blockquote><p>"Parsnip makes grocery shopping an adventure. I can't wait
-    to go each week!" -Asher A<br><br>"I've saved countless hours and bypassed loads
-    of frustration. Thank you, Parsnip! XO" -Edith T<br><br>"My wife is impressed
-    with my newfound cooking skills. My secret weapon is Parsnip." -Robert K<br></p></blockquote>
+  content: <blockquote><p>"What a revolutionary approach to cooking! I can't stop
+    using it." -Asher W<br><br>"I've saved countless hours and bypassed loads of frustration.
+    Thank you, Parsnip! XO" -Edith T<br><br>"My wife is impressed with my newfound
+    cooking skills. My secret weapon is Parsnip." -Robert P<br></p></blockquote>
   headline: Here's what people are saying about Parsnip
 - template: hero-banner-w-image
   block: hero-2
