@@ -23,7 +23,7 @@ page_sections:
     url: app.parsnip.ai
     button_text: Explore Parsnip
   image:
-    image: "/uploads/2020/07/23/avocado-toast.jpg"
+    image: ''
     alt_text: Easy Cooking
   background_image: ''
 - template: content-feature
