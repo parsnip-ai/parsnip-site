@@ -16,8 +16,8 @@ page_sections:
     button_text: Explore Parsnip
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Introducing Parsnip!<br></strong>Your Private Chef Cooking Companion™"
-  content: "<br>"
+  headline: "<strong>Introducing Parsnip<br></strong>Your Private Chef Cooking Companion™"
+  content: "<br>Thanksgiving Beta now available!"
   cta:
     enabled: true
     url: app.parsnip.ai
@@ -29,8 +29,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Swipe right </strong>to choose your recipes"
-  content: Parsnip provided AI-powered personalized recipes<br>based on your palate.
+  headline: Frustrated or intimidated by cooking? Ever wish there was someone who
+    could just walk you through it?
+  content: Invite Parsnip, your private chef friend, over to walk you through your
+    Thanksgiving preparations!
   media:
     image: "/uploads/2020/07/23/overhead-table.jpg"
     alt_text: Swipe right
