@@ -18,10 +18,7 @@ page_sections:
   block: hero-2
   headline: "<strong>Introducing Parsnip!<br></strong>Your Private Chef Cooking Companion™"
   content: Frustrated or intimidated by cooking? Want to impress your friends and
-    family? Ever wish there was someone who could just walk you through it?<br>Invite
-    Parsnip, your private chef friend, over to walk you through your Thanksgiving
-    preparations!<br>Learn pro tips and improve your skills.<br>Wow your friends with
-    mouthwatering dishes.
+    family? Ever wish there was someone who could just walk you through it?<br>
   cta:
     enabled: true
     url: app.parsnip.ai
