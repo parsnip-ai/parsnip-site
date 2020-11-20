@@ -30,7 +30,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: 'Frustrated or intimidated by cooking? '
-  content: Ever wish there was someone who could just walk you through it? Invite
+  content: Ever wish there was someone who could just tell you what to do? Invite
     the Parsnip app into your kitchen to walk you through recipes!
   media:
     image: "/uploads/2020/07/23/overhead-table.jpg"
@@ -38,7 +38,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Parsnip walks you through recipes by cooking<strong> technique.</strong>
+  headline: Parsnip guides you through recipes by cooking<strong> technique.</strong>
   content: Learn what it means to dice, saute, or simmer, step by step. Technique-based
     learning is more effective and will give you freedom from recipes.
   media:
