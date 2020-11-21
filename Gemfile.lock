@@ -61,7 +61,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.6)
+  jekyll (~> 3.8)
   jekyll-feed
   jekyll-menus
   tzinfo-data
