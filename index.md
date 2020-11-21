@@ -20,7 +20,7 @@ page_sections:
   content: "<br>Thanksgiving Beta now available!"
   cta:
     enabled: true
-    url: app.parsnip.ai
+    url: https://app.parsnip.ai
     button_text: Explore Parsnip
   image:
     image: "/uploads/2020/07/23/avocado-toast.jpg"
