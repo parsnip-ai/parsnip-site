@@ -12,7 +12,7 @@ page_sections:
   - link: "#features"
     link_text: Features
   cta:
-    url: app.parsnip.ai
+    url: https://app.parsnip.ai
     button_text: Explore Parsnip
 - template: hero-banner-w-image
   block: hero-2
