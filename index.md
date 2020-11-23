@@ -16,8 +16,11 @@ page_sections:
     button_text: Explore Parsnip
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Introducing Parsnip<br></strong>Your Private Chef Cooking Companion™"
-  content: "<br>Thanksgiving Beta now available!"
+  headline: "<strong>Drumroll please...<br></strong>Parsnip is here."
+  content: <br><span class="il">Parsnip</span> presents recipes in an easy-to-learn
+    format by labeling the <em>underlying technique</em> behind each step. This anchor
+    point, along with tracking your <em>skills progression </em>helps users of all
+    levels make incredible food easily while seeing how they're progressing.
   cta:
     enabled: true
     url: https://app.parsnip.ai
