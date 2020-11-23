@@ -38,7 +38,7 @@ page_sections:
     should be presented with a modicum of embarrassment. They're not quite perfect
     and that's perfectly fine.
   media:
-    image: "/uploads/2020/07/23/overhead-table.jpg"
+    image: "/uploads/2020/07/23/cooking-baby.jpg"
     alt_text: Swipe right
 - template: content-feature
   block: feature-1
