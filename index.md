@@ -32,13 +32,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: An early preview..
-  content: Our team is eager to get this in your hands, but please keep in mind that
-    this is an early version with a limited set of features. We're actively developing,
-    so check back often for updates!
+  headline: Parsnip teaches you the basic building blocks of cooking and tracks your
+    progress in six key areas.
   media:
-    image: "/uploads/2020/07/23/cooking-baby.jpg"
-    alt_text: Swipe right
+    image: "/uploads/2020/11/23/progress-1.png"
+    alt_text: Meals
+  content: "<strong>Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.</strong><br>Master
+    these skills and you'll be a master chef."
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -51,13 +51,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Parsnip teaches you the basic building blocks of cooking and tracks your
-    progress in six key areas.
+  headline: An early preview..
+  content: Our team is eager to get this in your hands, but please keep in mind that
+    this is an early version with a limited set of features. We're actively developing,
+    so check back often for updates!
   media:
-    image: "/uploads/2020/11/23/progress-1.png"
-    alt_text: Meals
-  content: "<strong>Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.</strong><br>Master
-    these skills and you'll be a master chef."
+    image: "/uploads/2020/07/23/cooking-baby.jpg"
+    alt_text: Swipe right
 - template: detail-content
   block: text-1
   content: <blockquote><p>"What a revolutionary approach to cooking! I can't stop
