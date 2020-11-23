@@ -47,8 +47,8 @@ page_sections:
   content: Learn what it means to dice, saute, or simmer, step by step. Learning techniques
     is fun and will give you freedom to improvise.
   media:
-    image: "/uploads/2020/07/23/little-girl-cooking.jpg"
-    alt_text: Customize Blocks
+    image: "/uploads/2020/11/23/spatchcock-2.png"
+    alt_text: Technique
 - template: content-feature
   block: feature-1
   media_alignment: Left
