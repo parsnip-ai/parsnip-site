@@ -55,7 +55,7 @@ page_sections:
   headline: An early preview..
   content: Our team is eager to get this in your hands, but please keep in mind that
     this is an early version with a limited set of features. We're actively developing,
-    so check back often for updates!
+    so check back often for updates! Sign up for our mailing list below.
   media:
     image: "/uploads/2020/07/23/cooking-baby.jpg"
     alt_text: Swipe right
