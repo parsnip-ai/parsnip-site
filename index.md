@@ -72,7 +72,7 @@ page_sections:
     image: "/uploads/2020/11/23/explore-2.png"
     alt_text: Chef
   background_image: ''
-  headline: Keep an eye on what's next
+  headline: Keep updated on what's new!
   content: Sign up for early access, sneak peaks, and an exclusive invitation to our
     next round of tests.
   cta:
