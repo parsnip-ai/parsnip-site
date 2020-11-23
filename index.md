@@ -69,7 +69,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   image:
-    image: "/uploads/2020/07/23/cooking-baby.jpg"
+    image: "/uploads/2020/11/23/explore-2.png"
     alt_text: Chef
   background_image: ''
   headline: Keep an eye on what's next
