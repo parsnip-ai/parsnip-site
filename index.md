@@ -32,21 +32,22 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Parsnip teaches you the basic building blocks of cooking and tracks your
-    progress in six key areas.
+  headline: Parsnip guides you through recipes by cooking<strong> technique.</strong>
   media:
-    image: "/uploads/2020/11/23/progress-1.png"
+    image: "/uploads/2020/11/23/dice-onion-skills.png"
     alt_text: Meals
-  content: "<strong>Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.</strong><br>Master
-    these skills and you'll be a master chef."
+  content: Learn what it means to dice, saute, or simmer, step by step. By focusing
+    on techniques that are shared across many different recipes, practicing a particular
+    recipe means you're getting better at making related recipes.
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Parsnip guides you through recipes by cooking<strong> technique.</strong>
-  content: Learn what it means to dice, saute, or simmer, step by step. Learning techniques
-    is fun and will give you freedom to improvise.
+  headline: Parsnip teaches you the basic building blocks of cooking and <strong>tracks
+    your progress</strong> in six key areas.
+  content: "<strong>Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.</strong><br>Master
+    these skills and you'll be a master chef.  "
   media:
-    image: "/uploads/2020/11/23/dice-onion-skills.png"
+    image: "/uploads/2020/11/23/progress-1.png"
     alt_text: Technique
 - template: content-feature
   block: feature-1
