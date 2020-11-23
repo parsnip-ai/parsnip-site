@@ -32,11 +32,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Just a little MVP...
+  headline: An early preview..
   content: Our team is eager to get this in your hands, but please keep in mind that
-    this is our <em>Minimum</em> Viable Product. We've been told that MVPs, like children,
-    should be presented with a modicum of embarrassment. They're not quite perfect
-    and that's perfectly fine.
+    this is an early version with a limited set of features. We're actively developing,
+    so check back often for updates!
   media:
     image: "/uploads/2020/07/23/cooking-baby.jpg"
     alt_text: Swipe right
