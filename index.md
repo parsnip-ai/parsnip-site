@@ -55,7 +55,7 @@ page_sections:
   headline: Parsnip teaches you the basic building blocks of cooking and tracks your
     progress in six key areas.
   media:
-    image: "/uploads/2020/07/23/white-and-brown-cooked-dish-on-white-ceramic-bowls-958545.jpg"
+    image: "/uploads/2020/11/23/progress-1.png"
     alt_text: Meals
   content: "<strong>Ingredients, Tasting, Preparation, Heating, Finishing, and Foundations.</strong><br>Master
     these skills and you'll be a master chef."
