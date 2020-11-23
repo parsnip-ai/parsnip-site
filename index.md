@@ -73,8 +73,7 @@ page_sections:
     alt_text: Chef
   background_image: ''
   headline: Keep updated on what's new!
-  content: Sign up for early access, sneak peaks, and an exclusive invitation to our
-    next round of tests.
+  content: Sign up for early access, sneak peaks, and exclusive invitations.
   cta:
     enabled: true
     url: https://parsnip.us17.list-manage.com/subscribe?u=06af1f007b3d71a0cfad78326&id=8ce2690158
