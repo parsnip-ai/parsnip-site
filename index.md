@@ -32,9 +32,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: 'Frustrated or intimidated by cooking? '
-  content: Ever wish there was someone who could just tell you what to do? Invite
-    the Parsnip app into your kitchen to walk you through recipes!
+  headline: Just a little MVP...
+  content: Our team is eager to get this in your hands, but please keep in mind that
+    this is our <em>Minimum</em> Viable Product. We've been told that MVPs, like children,
+    should be presented with a modicum of embarrassment. They're not quite perfect
+    and that's perfectly fine.
   media:
     image: "/uploads/2020/07/23/overhead-table.jpg"
     alt_text: Swipe right
